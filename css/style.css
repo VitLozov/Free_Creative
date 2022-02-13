@@ -151,5 +151,9 @@ margin-right: 20px;
     font-size: 18px;
     line-height: 140%;
 }
-
+.blueback{
+    background-color: #2B59C3;
+    padding: 10px;
+    color: #ffffff;
+}
 
