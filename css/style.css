@@ -42,6 +42,11 @@ header ul{
 .margin-r20{
     margin-right: 20px;
 }
+.slogan{
+    font-family: "20 Kopeek";
+    font-size: 15px;
+    line-height: 19px;
+}
 
 .border-circle{
     width: 36px;
@@ -56,6 +61,10 @@ header ul{
     border: 1px solid #ffffff;
     padding: 0 30px;
     line-height: 36px;
+    font-family: "20 Kopeek";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
 }
 a{
     display: inline-block;
@@ -72,6 +81,7 @@ header li, a{color: #ffffff}
 }
 .section1 li{
     list-style: none;
+    font-family: "20 Kopeek";
 }
 .btn{
     background-color: #ffffff;
@@ -86,8 +96,10 @@ h1{
     line-height: 55px;
     margin-bottom: 30px;
     margin-top: 0;
+    font-family: "20 Kopeek";
 }
 .sec1-p{
+    font-family: "20 Kopeek";
     font-size: 34px;
     line-height: 37px;
     color: #181818;
