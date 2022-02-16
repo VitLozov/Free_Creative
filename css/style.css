@@ -142,7 +142,12 @@ margin-right: 20px;
 }
 .section2 ul{
     list-style: none;
+    margin-bottom: 120px;
 }
+.section2 li{
+    max-width: 190px;
+}
+
 .sec2-numbers{
     font-family: "20 Kopeek";
     font-size: 55px;
@@ -152,9 +157,6 @@ margin-right: 20px;
     font-family: "20 Kopeek";
     font-size: 18px;
     line-height: 140%;
-}
-.section2 ul{
-    margin-bottom: 120px;
 }
 .max-w-158{
     max-width: 158px;
@@ -171,4 +173,33 @@ margin-right: 20px;
     padding: 10px;
     color: #ffffff;
 }
+.section3{
+    padding-bottom: 100px;
+}
 
+.pict_pdg{
+    padding-bottom: 44px;
+}
+
+.pict_h3{
+    font-family: 20 Kopeek Book;
+    font-size: 55px;
+    line-height: 100%;
+    margin-right: 89px;
+}
+.pict_p{
+    font-family: 20 Kopeek;
+    font-size: 18px;
+    line-height: 140%;
+    max-width: 233px;
+}
+.pict_a{
+    color: black;
+    font-family: 20 Kopeek;
+    font-size: 18px;
+    line-height: 140%;
+    border: 1px solid #181818;
+    box-sizing: border-box;
+    border-radius: 40px;
+padding: 23px 47px;
+}
